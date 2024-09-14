@@ -1,5 +1,5 @@
 ### Hello, I'm Jacob
 
-🌍Geography, 🗺️Maps, 📡Science, 💻Web Development, 📊data visualization
+🌍Geography, 🗺️Maps, 📡Remote Sensing, 💻Web Development, 📊Data Visualization
 
-HTML, CSS, JavaScript, Sveltekit, React, Python, SQL
+HTML, CSS, JavaScript, Sveltekit, Python
